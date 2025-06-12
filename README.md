@@ -13,7 +13,7 @@ The beginning of portfolio building and Data analysis journey with the DSA incub
 - *Libraries:* 
 - *Databases:* MySQL, SQLserver.
 - *BI Tools:* Power BI.
-- *Others:* Excel, Git.
+- *Others:* Excel [Download here](www.microsoft.com), Git.
 
 ---
 
