@@ -32,6 +32,12 @@ Here are a few highlights of what I’ve worked on:
 
 ### 🔍 [SQL Data Exploration: COVID-19 Dataset](https://github.com/yourusername/sql-covid19-analysis)
 - *Tools:* SQL, PostgreSQL
+
+- ``` SQL
+   select * from Employee
+  where staff_id = 'AB212'
+- ```
+- 
 - Wrote complex queries to explore global COVID-19 data and identify mortality patterns.
 
 ### 📦 [E-commerce Data Cleaning](https://github.com/yourusername/ecommerce-data-cleaning)
